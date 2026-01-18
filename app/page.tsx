@@ -81,7 +81,7 @@ export default function Home() {
             Featured Project
           </h2>
           <a
-            href="https://compass-kitchen-orders.vercel.app"
+            href="https://compass-delivery.vercel.app"
             target="_blank"
             rel="noopener noreferrer"
             className="group block bg-white/80 dark:bg-slate-800/80 backdrop-blur-sm rounded-2xl overflow-hidden shadow-xl hover:shadow-2xl transition-all duration-300 border border-slate-200/50 dark:border-slate-700/50 hover:border-indigo-500 dark:hover:border-indigo-400"
